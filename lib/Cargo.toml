@@ -1,0 +1,7 @@
+[package]
+name = "lib"
+version = "0.1.0"
+authors = ["Matjaž Drolc <mdrolc@gmail.com>"]
+
+[dependencies]
+hidapi = "0.4"
