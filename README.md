@@ -1,4 +1,4 @@
-# Logitech G203 userspace driver
+# Logitech G203 user-space driver
 
 Intention of this project is to write a user-space driver for Logitech G203 gaming mouse.
 
