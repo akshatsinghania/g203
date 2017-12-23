@@ -3,3 +3,5 @@
 members = ["lib", "ui"]
 
 
+[patch.crates-io]
+hidapi = {git = 'https://github.com/drola/hidapi-rs', branch='linux-native-driver'}
